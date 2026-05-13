@@ -1,0 +1,22 @@
+{
+"name": "Absensi Siswa Premium MA Al Qomariyah",
+"short_name": "Absensi MA",
+"description": "Sistem Informasi Absensi Digital MA Al Qomariyah",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#204258",
+"theme_color": "#204258",
+"orientation": "portrait",
+"icons": [
+{
+"src": "alqomlogo.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "alqomlogo.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
